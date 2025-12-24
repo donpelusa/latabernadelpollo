@@ -32,7 +32,7 @@ export default function Home() {
       <footer className="bg-secondary/30 border-t border-secondary mt-12">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-foreground/60 text-sm md:text-base">
-            Navidad - {currentDate}
+            Hecho con cariño por Pelusa™ - Navidad - {currentDate}
           </p>
         </div>
       </footer>
