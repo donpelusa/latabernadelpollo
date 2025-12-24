@@ -129,4 +129,20 @@ export const cocktails: Cocktail[] = [
     image:
       "https://res.cloudinary.com/dfigfbsxy/image/upload/c_pad,ar_4:3/v1766589483/whisky-cola_pxwafo.jpg",
   },
+  {
+    id: 10,
+    name: "Colemono",
+    ingredients: [
+      "Aguardiente",
+      "Leche",
+      "Azúcar",
+      "Canela",
+      "Clavo de olor",
+      "Otras especias",
+    ],
+    description:
+      "Trago tradicional chileno a base de aguardiente y leche, aromatizado con canela, clavo de olor y especias. Dulce, especiado y reconfortante, típico de celebraciones y fiestas de fin de año.",
+    image:
+      "https://res.cloudinary.com/dfigfbsxy/image/upload/v1766589482/colemono_moz8nw.jpg",
+  },
 ];
